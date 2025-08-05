@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pratishtha!
 
-💻 I'm a developer, creative thinker, and game designer who’s passionate about **tech**, **coding**, and building meaningful digital experiences.
+💻 I'm a developer, creative thinker, and tech enthusiast who’s passionate about **tech**, **coding**, and building meaningful digital experiences.
 
 ---
 
