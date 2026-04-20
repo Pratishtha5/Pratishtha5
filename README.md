@@ -3,8 +3,7 @@
 💻 I'm a developer, creative thinker, and tech enthusiast who’s passionate about **tech**, **coding**, and building meaningful digital experiences.
 ---
 
-![Pratishtha5's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Pratishtha5&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratishtha5&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 ---
 ## 🤝Let's connect!
